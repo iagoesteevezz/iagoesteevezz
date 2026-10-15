@@ -52,6 +52,9 @@ Fuera de las clases construyo proyectos propios para aprender haciendo: aplicaci
 Escríbeme por [LinkedIn](https://www.linkedin.com/in/iagoestevez) o visita [iagoestevez.com](https://iagoestevez.com).
 
 ##
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=iagoesteevezz&layout=compact&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
-
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=iagoesteevezz&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=iagoesteevezz&layout=compact&theme=tokyonight" alt="Top Langs" />
+  </a>
+</p>
