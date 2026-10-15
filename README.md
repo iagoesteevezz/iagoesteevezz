@@ -52,6 +52,6 @@ Fuera de las clases construyo proyectos propios para aprender haciendo: aplicaci
 Escríbeme por [LinkedIn](https://www.linkedin.com/in/iagoestevez) o visita [iagoestevez.com](https://iagoestevez.com).
 
 ##
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=brendan-jarvis&layout=compact&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=iagoesteevezz&layout=compact&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 
 
