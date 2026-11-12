@@ -22,7 +22,7 @@ Fuera de las clases construyo proyectos propios para aprender haciendo: aplicaci
 
 | Proyecto | Qué es | Tecnologías |
 |---|---|---|
-| [**MoneyTrack**](https://github.com/iagoesteevezz/moneytrack) | App web de finanzas personales con panel de gastos, presupuestos, objetivos, inversiones y análisis automático con IA | TypeScript, React |
+| [**MoneyTrack**](https://github.com/iagoesteevezz/moneytrack-showcase) | App web de finanzas personales con panel de gastos, presupuestos, objetivos, inversiones y análisis automático con IA | TypeScript, React |
 | [**Letterboxd Hours Extension**](https://github.com/iagoesteevezz/letterboxd-hours-extension) | Extensión que calcula el tiempo total de películas vistas en tu perfil de Letterboxd | TypeScript, Manifest V3 |
 | [**Longsaw**](https://github.com/iagoesteevezz/longsaw) | Estadísticas y tarjetas visuales de tus chats de WhatsApp, gratis y procesadas en el navegador, sin subir nada a ningún servidor | TypeScript, React |
 | [**Arrow Puzzle**](https://github.com/iagoesteevezz/arrow-puzzle-game) | Puzle web procedural con partidas guardadas en local o sincronizadas en la nube | JavaScript, Supabase, GSAP |
